@@ -1,2 +1,2 @@
 # OCR Open Source
-Here, you will find the open source code for the Oral Cancer Radar
+View open source files and documentation from the Oral Cancer Radar -- Contributions by Aniketh Bandlamudi
